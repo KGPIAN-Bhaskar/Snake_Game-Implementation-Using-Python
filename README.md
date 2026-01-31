@@ -80,6 +80,6 @@ This project is a Python-based implementation of the classic Snake Game using th
 
 LinkedIn - https://www.linkedin.com/in/bhaskar-mandal
 
-Webpage - https://bhaskar-mandal-hp4f7bc.gamma.site/
+Webpage - https://gamma.app/docs/Bhaskar-Mandal-IIT-KGP-0ctr1uaacscyu81?mode=doc
 
 
