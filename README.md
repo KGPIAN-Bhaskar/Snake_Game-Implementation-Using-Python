@@ -76,8 +76,8 @@ This project is a Python-based implementation of the classic Snake Game using th
 ---
 
 ## 👤 Author
-**Bhaskar Mandal**  
-**M.Tech,IIT KGP** 
+**Bhaskar Mandal,M.Tech,IIT KGP**  
+
 LinkedIn - https://www.linkedin.com/in/bhaskar-mandal
 
 Webpage - https://bhaskar-mandal-hp4f7bc.gamma.site/
