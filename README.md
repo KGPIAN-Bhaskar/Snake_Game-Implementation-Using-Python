@@ -61,5 +61,24 @@ This repository contains a complete implementation of the classic Snake Game dev
 snake-game-python/
 ├── snake_game.py
 ├── README.md
-├── requirements.txt
+```
+---
+## 🛠 Tools & Technologies
+- **Programming Language:** Python
+- **Graphics Library:** turtle
+- **Standard Libraries:** time, random
+- **Version Control:** Git, GitHub
+- **Development Environment:** VS Code / PyCharm / IDLE
+
+## 📝 Summary
+This project is a Python-based implementation of the classic Snake Game using the Turtle graphics module. It demonstrates core programming concepts such as event-driven input handling, collision detection, game loop management, and state control. The project is designed to be simple, readable, and educational, making it suitable for showcasing Python fundamentals and basic game development skills.
+
+---
+
+## 👤 Author
+**Bhaskar Mandal**  
+M.Tech,IIT KGP  
+LinkedIn - https://www.linkedin.com/in/bhaskar-mandal
+Webpage - https://bhaskar-mandal-hp4f7bc.gamma.site/
+
 
