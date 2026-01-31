@@ -55,3 +55,11 @@ This repository contains a complete implementation of the classic Snake Game dev
 | Left Arrow  | Move Left   |
 | Right Arrow | Move Right  |
 
+## 📂 Project Structure
+
+```text
+snake-game-python/
+├── snake_game.py
+├── README.md
+├── requirements.txt
+
