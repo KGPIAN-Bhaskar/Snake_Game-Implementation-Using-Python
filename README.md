@@ -46,4 +46,11 @@ This repository contains a complete implementation of the classic Snake Game dev
    ```bash
    python snake_game.py
 
+##🎮 Controls
+| Key         | Action     |
+| ----------- | ---------- |
+| Up Arrow    | Move Up    |
+| Down Arrow  | Move Down  |
+| Left Arrow  | Move Left  |
+| Right Arrow | Move Right |
 
